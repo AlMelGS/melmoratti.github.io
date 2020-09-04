@@ -1,0 +1,404 @@
+body {
+	background-color: #D3D3D3;
+	font-family: tahoma, arial, helvetica, sans-serif;
+	
+}
+.highlightheading
+{
+background-color:#cccc99;
+}
+span.boldletter
+{
+float:none;
+width:0.7em;
+font-size:200%;
+font-family:algerian, times roman;
+line-height:80%;
+}
+
+
+.heading1 {
+	font-family: Broadway, Century Schoolbook, Times New Roman, helvetica, sans-serif;
+	font-size: 20pt;
+	color: #3366ff;
+}
+.heading2 {
+	font-family: Century Schoolbook, Times New Roman, helvetica, sans-serif;
+	font-size: 13pt;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-bottom: 10px;
+}
+.heading2Span {
+	background-color: #cccc99;
+	padding: 3px 10px 3px 10px;
+}
+.heading3 {
+	font-family: Book Antiqua, Times New Roman, helvetica, sans-serif;
+	font-size: 14pt;
+	color: #663300;
+	font-weight: bold;
+}
+.heading4 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 12pt;
+	color: #cc6633; 
+	font-weight: bold;
+}
+.heading5 {
+	font-family: Century Schookbook, Times New Roman, helvetica, sans-serif;
+	font-size: 16pt;
+	color: #ff6600; 
+	font-weight: bold;
+}
+.heading6 {
+	font-family: Book Antiqua, Times New Roman, helvetica, sans-serif;
+	font-size: 14pt;
+	color: #ff6600; 
+	font-weight: bold;
+	}
+.heading7 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 14pt;
+	color: #cc9966; 
+	font-weight: bold;
+}
+.heading8 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 15pt;
+	color: #cc6666; 
+	font-weight: bold;
+}
+.heading9 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 9pt;
+	color: #663300; 
+	font-weight: normal;
+}
+.heading10 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 7pt;
+	color: #663300; 
+	font-weight: normal;
+	}
+.heading11 {
+	font-family: Century Schoolbook, Times New Roman, helvetica, sans-serif;
+	font-size: 13pt;
+	color: #000000;
+	font-weight: bold;
+}
+.heading12 {
+	font-family: Century Schoolbook, Times New Roman, helvetica, sans-serif;
+	font-size: 13pt;
+	color: #333366;
+	font-weight: bold;
+	}
+.heading13 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 11pt;
+	color: #663300; 
+	font-weight: bold;
+    }
+.heading14 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 12pt;
+	color: #ffcc66; 
+	font-weight: normal;
+	}
+.bodyText1 {
+	font-family: Verdana, Arial, sans-serif, Comic Sans MS;
+	font-size: 12pt;
+	color: #000000;
+	font-weight: normal;
+	text-indent: 25px;
+}
+.bodyText2 {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 8pt;
+	color: #000000;
+	font-weight: normal;
+}
+.bodyText3 {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 7pt;
+	color: #000000;
+	font-weight: normal;
+}
+.bodyText4 {
+	font-family: Book Antiqua, arial, helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+	font-weight: normal;
+}
+.bodyText5 {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 5pt;
+	color: #000000;
+	font-weight: normal;
+	}
+.bodyText6 {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 11pt;
+	color: #000000;
+	font-weight: normal;
+}
+.bodyText7 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 12pt;
+	color: #7c3d03;
+	font-weight: normal;
+}
+.bodyText8 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 12pt;
+	color: #000000;
+	font-weight: normal;
+	}
+.bodyText9 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 11pt;
+	color: #996600;
+	font-weight: normal;
+	}
+.bodyText10 {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+	font-weight: normal;
+    }
+.bodyText11 {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 11pt;
+	color: #3333ff;
+	font-weight: normal;
+	}
+.bodyText12 {
+	font-family: Bookman Old Style, Times New Roman, helvetica, sans-serif;
+	font-size: 12pt;
+	color: #663300;
+	font-weight: normal;
+}
+/* character styles */
+.characterStyle1 {
+	font-family:  Book Antiqua, arial, helvetica, sans-serif;
+	font-size: 11pt;
+	color: #000000;
+	font-weight: normal;
+}
+.characterStyle2 {
+	font-family:  Book Antiqua, arial, helvetica, sans-serif;
+	font-size: 12pt;
+	color: #000000;
+	font-weight: normal;
+}
+.characterStyle3 {
+	font-family:  Book Antiqua, arial, helvetica, sans-serif;
+	font-size: 12pt;
+	color: #000033;
+	font-weight: normal;
+}
+.note1 {
+	text-align: center;
+	width: 195px;
+	padding: 2;
+	spacing: 0;
+	border: ridge 5px;
+	bordercolor: #cc9900;
+	bordercolorlight: #959500;
+	bordercolordark: #515100;
+	background-color: #feffe6;
+}	
+.note2 {
+	text-align: center;
+	width: 110px;
+	padding: 2;
+	spacing: 0;
+	border: ridge 5px;
+	bordercolor: #cc9900;
+	bordercolorlight: #959500;
+	bordercolordark: #515100;
+	background-color: #feffe6;
+}
+.note3 {
+	text-align: center;
+	width: 150px;
+	padding: 6;
+	spacing: 0;
+	border: ridge 9px;
+	bordercolor: #3300ff;
+	bordercolorlight: #3399ff;
+	bordercolordark: #6633ff;
+	background-color: #ccffff;
+}
+.review {
+	margin-left: 120px;
+	width: 90%;  
+	padding: 5;
+	spacing: 0;
+	border: ridge 2px #99cccc;
+	bordercolorlight: #99cccc;
+	bordercolordark: #cccc00;
+	background-color: #f3f3f3;   
+}  
+.review2 {
+	margin-left: 120px;
+	width: 90%;  
+	padding: 10;
+	spacing: 0;
+	border: ridge 2px #99cccc;
+	bordercolorlight: #99cccc;
+	bordercolordark: #cccc00;
+	background-color: #ffff99;  
+}
+.sidebar {
+	text-align: center;
+	margin: 25px;
+	width: 400px;
+	padding: 2;
+	spacing: 0;
+	bordercolorlight: #959500;
+	bordercolordark: #515100;
+	border: ridge 5px  #cc9900;
+	background-color: #FEFFE6;
+}
+.pageStyle {
+	font-family: Century Schoolbook, tahoma, arial, helvetica, sans-serif;
+	font--size: 3.5pt;
+	color: #330000;
+}
+.pageStyle2 {
+	font-family: Century Schoolbook, tahoma, arial, helvetica, sans-serif;
+	font--size: 3.5pt;
+	color: black;
+	margin-left: 25px;
+}
+.button1 {
+	float: left;
+	background: #cccccc;
+	color: #FFF;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-width: 4px;
+	border-style: solid;
+	border-top-color: #DFDFDF;
+	border-right-color: #666;
+	border-bottom-color: #333;
+	border-left-color: #858585;
+	text-align: center;
+	width: 250px;
+}
+.button2 {
+	float: right;
+	background: #cccccc;
+	color: #FFF;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-width: 4px;
+	border-style: solid;
+	border-top-color: #DFDFDF;
+	border-right-color: #666;
+	border-bottom-color: #333;
+	border-left-color: #858585;
+	text-align: center;
+	width: 250px;
+}
+.button3 {
+	float: left; 
+	background: #cccccc;
+	color: #FFF;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-width: 4px;
+	border-style: solid;
+	border-top-color: #DFDFDF;
+	border-right-color: #666;
+	border-bottom-color: #333;
+	border-left-color: #858585;
+	text-align: center;
+	width: 335px;
+}
+.button4 {
+	float: center; 
+	background: #cccccc;
+	color: #FFF;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-width: 4px;
+	border-style: solid;
+	border-top-color: #DFDFDF;
+	border-right-color: #666;
+	border-bottom-color: #333;
+	border-left-color: #858585;
+	text-align: center;
+	width: 365px;
+}
+.img.figure1 {
+	float: right;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	border: 3px solid #666;
+	padding: 10px;
+}
+.img.figure1 {
+	float: right;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	border: 3px solid #666;
+	padding: 10px;
+}
+.div.figure1 {
+	float: right;
+	width: 222px;
+	margin: 15px 10px 5px 10px
+}	
+/* anchor styles */
+A {
+	text-decoration:none;
+}
+A:link{ 
+	color: black;
+}
+A:hover, active { 
+	color: red;
+}
+A:visited { 
+	color: maroon;
+}
+A.monthLink {
+	font-family: Century Schoolbook, Times New Roman, helvetica, sans-serif;
+	font-size: 11pt;
+	color: #000000;
+}
+A.navLink1 {
+	font-family: Century Schoolbook, Times New Roman, helvetica, sans-serif;
+	font-size: 12pt;
+	color: Blue;
+	font-weight: bold;
+}
+A.bottomNavigation, A.bottomNavigation:link, A.bottomNavigation:visited{
+	font-family: Bookman Old Style, tahoma, arial, helvetica, sans-serif;
+	font-size: 12pt;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+}
+A.bottomNavigation:hover, A.bottomNavigation:active{
+	color: #FF0000;
+	text-decoration: underline;
+}
+<style type="text/css">
+p.leftmargin {margin-left: 2cm}
+}
+img.figure {
+	float: right;
+	marin-left: 30px;
+	margin-bottom: 30px;
+    border: 3px solid #999966;
+	padding: 10px
+}
+</style>
